@@ -20,10 +20,7 @@ We can access our organization on GitHub via https://github.com/engedu
         - Make the pull request to maintainer
     - Maintainer
         - Review a pull request, if satisfied then merge, if not then commenting.
-        - There are 3 types of merging (have to find more detail)
-            1. All
-            2. Select commit
-            3. Rebase
+        - There are 3 types of merging, [more detail](https://help.github.com/articles/about-pull-request-merges/)
 ### See things that happen in repository
     Using menu Insight → Graph → Network
 
