@@ -28,7 +28,7 @@ We can access our organization on GitHub via https://github.com/engedu
     Using menu Insight → Graph → Network
 
 ### Terms and Definitions
-
+Have to create table
 Term
 Definition
 Remark
