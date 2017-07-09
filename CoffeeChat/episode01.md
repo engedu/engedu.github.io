@@ -1,4 +1,6 @@
 # Episode 01 GitHub Learning and Sharing
+### Date of chating
+> 1st July 7, 2017
 ## Objective
 - Learning and sharing about how to use GitHub for software development
 - Write down the workflow that suitable for software development in our department
