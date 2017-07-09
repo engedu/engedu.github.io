@@ -26,7 +26,7 @@ We can access our organization on GitHub via https://github.com/engedu
 
 ### Terms and Definitions
 Term | Definition | Remark
------------- | ------------- | -------------
+--- | ------- | -----
 Team member | GitHub user that was added to team in this organization | Can make branch in repository, Can pull request
 Contributor | Any GitHub user that was add to the repository by maintainer 
 Member | Anyone who fork the repository | Can pull request to original master/branches
