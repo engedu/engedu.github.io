@@ -9,8 +9,8 @@
 We can access our organization on GitHub via [https://github.com/engedu](https://github.com/engedu)
 ### Workflow for team development
 1. Any person who want to join the development must “sign up for GitHub”
-2. Owner of the organization invite this user to organization
-    Q : Is it possible for user to request to join the organization?
+2. Owner of the organization invite this user to organization  
+   Q : Is it possible for user to request to join the organization?
 3. Any member of this organization can create the repository (this member became the maintainer of this repository)
     - Setting team for this repository
     - Assign roles for team members
@@ -23,7 +23,7 @@ We can access our organization on GitHub via [https://github.com/engedu](https:/
         - Make the pull request to maintainer
     - Maintainer
         - Review a pull request, if satisfied then merge, if not then commenting.
-        - There are 3 types of merging, [more detail](https://help.github.com/articles/about-pull-request-merges/)
+        - There are 3 types of merging, [more detail](https://help.github.com/articles/about-pull-request-merges/)   
 ### See things that happen in repository
     Using menu Insight → Graph → Network
 
