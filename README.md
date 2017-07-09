@@ -11,4 +11,4 @@ Chat about things that
 2. Support the learning of our students
 
 ### Episodes of Coffee Chat
-1. [Episode 01 GitHub Learning and Sharing](./episode01.md)
+1. [Episode 01 GitHub Learning and Sharing](./CoffeeChat/episode01.md)
