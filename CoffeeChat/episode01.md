@@ -17,12 +17,12 @@ We can access our organization on GitHub via [https://github.com/engedu](https:/
 4. Developing your software by anyone in team
     - Teams member action
         - Clone repository
+        - Create a new branch
         - Edit/add code on your own .git local
-        - Create new branch
-        - Commit to .git and push to GitHub
-        - Make the pull request to maintainer
-    - Maintainer
-        - Review a pull request, if satisfied then merge, if not then commenting.
+        - Commit to this new branch and push to GitHub
+        - Make the pull request for merge to master branch
+    - Team members
+        - Review a pull request, if satisfied then merge, if not then commenting/discussion
         - There are 3 types of merging, [more detail](https://help.github.com/articles/about-pull-request-merges/)   
 ### See things that happen in repository
     Using menu Insight → Graph → Network
