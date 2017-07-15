@@ -1,6 +1,5 @@
-# engedu.github.io
+# Department of Engineering Education
 Repository for GitHub pages of our department
-
 
 ## Coffee Chat
 > ### just have a cup of coffee and chat for sharing
